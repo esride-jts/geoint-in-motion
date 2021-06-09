@@ -34,6 +34,7 @@ In aphabetical orther by last name:
 - Gregory Brunner (gbrunner@esri.com)
 - Andrew Chapkowski (achapkowski@esri.com)
 - Todd Wever (twever@esri.com)
+- Jan Tschada (j.tschada@esri.de)
 
 # Contributing
 
